@@ -36,7 +36,7 @@ This project was developed from a graduate research project on regulator network
 - `kcipt/MyIchol.m`: incomplete Cholesky approximation used to accelerate kernel computation.
 - `run_digoxin_pc.m`: example workflow for running PC structure learning on a matrix dataset.
 - `experiments/kcipt_chaotic.m`: synthetic chaotic-system experiment driver.
-- `docs/KCICPT-paper-draft.docx`: original research manuscript draft for the KCICPT project.
+- `docs/KCICPT-paper-draft.pdf`: original research manuscript draft for the KCICPT project.
 
 ## Requirements
 
