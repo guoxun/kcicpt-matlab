@@ -79,3 +79,5 @@ When integrated with the PC algorithm, KCICPT acts as the conditional independen
 If this code is useful for academic work, please cite the project as:
 
 > Xun Guo, Yi Liu, Zhengwei Xie. Regulator network learning algorithm based on Kernel Conditional Independence Cluster Permutation Test (KCICPT) algorithm.
+
+Reference materials and the original manuscript draft are available in [`docs/`](https://github.com/guoxun/kcicpt-matlab/tree/master/docs).
