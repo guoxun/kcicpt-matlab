@@ -1,0 +1,34 @@
+# MATLAB autosave and editor files
+*.asv
+*.m~
+.DS_Store
+CVS/
+*.zip
+*.avi
+
+# MATLAB compiled/generated artifacts
+*.mex*
+*.ctf
+*.dll
+*.lib
+*.exp
+*.exports
+mccExcludedFiles.log
+
+# Profiling and generated reports
+profile_result/
+file0.html
+
+# Runtime results and temporary experiment outputs
+results/
+OMG*.txt
+sigmas*.txt
+TensorProduct_*.mat
+GGk.mat
+Zindex*.mat
+r_data_incomplete_cholesky.mat
+
+# Local scratch files
+scratch/
+tmp/
+temp/

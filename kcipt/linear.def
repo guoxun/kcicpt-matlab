@@ -1,0 +1,8 @@
+LIBRARY linear
+EXPORTS
+linearInitialize
+linearInitializeWithHandlers
+linearTerminate
+linearPrintStackTrace
+mlxLinear_permutation
+
