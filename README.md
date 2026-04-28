@@ -21,6 +21,7 @@ This project was developed from a graduate research project on regulator network
 ├── algorithms/         # Gaussian process and kernel utility routines
 ├── experiments/        # Experiment entry points for synthetic/chaotic data
 ├── data/               # Small example datasets and data-generation helpers
+├── docs/               # Research paper draft and project documentation
 ├── bnt/                # Bayesian Network Toolbox dependency snapshot
 ├── gpml-matlab/        # GPML MATLAB dependency snapshot
 ├── run_digoxin_pc.m    # Example PC learning entry point
@@ -35,6 +36,7 @@ This project was developed from a graduate research project on regulator network
 - `kcipt/MyIchol.m`: incomplete Cholesky approximation used to accelerate kernel computation.
 - `run_digoxin_pc.m`: example workflow for running PC structure learning on a matrix dataset.
 - `experiments/kcipt_chaotic.m`: synthetic chaotic-system experiment driver.
+- `docs/KCICPT-paper-draft.docx`: original research manuscript draft for the KCICPT project.
 
 ## Requirements
 
