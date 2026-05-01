@@ -1,5 +1,7 @@
 # KCICPT MATLAB
 
+**[中文文档](README.zh.md)** | English
+
 MATLAB implementation of **Kernel Conditional Independence Cluster Permutation Test (KCICPT)** and its integration with the PC algorithm for learning regulatory networks from continuous, high-dimensional biological data.
 
 This project was developed from a graduate research project on regulator network learning. It extends kernel conditional independence permutation testing with clustering, incomplete Cholesky decomposition, and Gaussian sampling to make conditional-independence-based structure learning more tractable on biological datasets.

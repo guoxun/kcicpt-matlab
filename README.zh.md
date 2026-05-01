@@ -1,5 +1,7 @@
 # KCICPT MATLAB
 
+[English](README.md) | **中文文档**
+
 基于**核条件独立聚类置换检验（Kernel Conditional Independence Cluster Permutation Test，KCICPT）**算法及其与 PC 算法集成的 MATLAB 实现，用于从连续型高维生物数据中学习调控网络结构。
 
 本项目源自北京交通大学硕士学位论文研究，在 Gary Doran 等人提出的 KCIPT 算法基础上，通过 K-means 聚类置换、不完全 Cholesky 分解和高斯分布模拟三项关键优化，显著降低了算法在大样本数据上的时间复杂度，使核条件独立性检验真正适用于生物大数据场景。
