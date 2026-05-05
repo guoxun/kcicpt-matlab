@@ -197,4 +197,4 @@ run_digoxin_pc(data.<variable_name>, 0.05)
 
 > Xun Guo, Yi Liu, Zhengwei Xie. Regulator network learning algorithm based on Kernel Conditional Independence Cluster Permutation Test (KCICPT) algorithm.
 
-原始论文草稿及参考资料见 [`docs/`](https://github.com/guoxun/kcicpt-matlab/tree/master/docs)。
+原始论文内容及参考资料见 [`docs/`](https://github.com/guoxun/kcicpt-matlab/tree/master/docs)。
